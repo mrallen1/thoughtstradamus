@@ -14,3 +14,9 @@ Check out our [2017's leading thoughts](2017_thoughts.md)!!
 ### [Ines's](https://github.com/randommood) picks
 * Edge gravity
 * Superdata
+
+### [Mark A's](https://github.com/mrallen1) picks
+* Cloud telemetry
+* Observability for your observability tools
+* In-access-point caching
+* Ridiculous nouns turned into verbs (serverlessing, kuberneting, etc)
